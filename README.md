@@ -2,7 +2,7 @@
 A phpstrom code template for Yii2
 
 ----------------------------
-## Useage
+## Usage
 
 put the Yii.php file below the .PhpStorm2017.1\config\fileTemplates\ directory.
 
